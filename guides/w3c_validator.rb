@@ -11,7 +11,7 @@
 #
 # rake guides:validate
 #
-# If nothing is specified, all files will be validated, but you can check just
+# If nothing is specified, all files will be validated, but you can check one or just
 # some of them using this environment variable:
 #
 #   ONLY

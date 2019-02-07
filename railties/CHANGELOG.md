@@ -1,7 +1,3 @@
-*   Add `rails test:mailboxes`.
-
-    *George Claghorn*
-
 *   Introduce guard against DNS rebinding attacks
 
     The `ActionDispatch::HostAuthorization` is a new middleware that prevent
